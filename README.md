@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="voltage.png" width="300">
-  <h1 align="center">C-</h1>
+  <h1 align="center">Voltage</h1>
   <p align="center">The Voltage package manager</p>
 </p>
 
